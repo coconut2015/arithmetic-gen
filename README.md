@@ -12,11 +12,11 @@ generated.
 
 The problems are in the following format.
 ```
-	5 x 9 + 99
+	5 x 9 + 99 =
 ```
 
 There can be minus operations as well, but the result will not go below
-zero.
+zero since negative values are not taught until much later.
 
 See the attached [problems](problem.pptx) and [solutions](solution.pptx).
 There are 100 pages of exercises in there.
