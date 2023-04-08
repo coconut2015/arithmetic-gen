@@ -16,8 +16,8 @@ Prerequsites
 This python utility requires [python-pptx](https://python-pptx.readthedocs.io/en/latest/).
 
 
-Run
----
+Usage
+-----
 
 ```bash
 usage: ./genarithmetic.py [options]
@@ -25,3 +25,8 @@ options:
     -h,--help           displays this help information, then exit
     -p,--page number    number of pages to be generated.  default is 1
 ```
+
+License
+-------
+
+This utility is released under [APL 2.0](https://www.apache.org/licenses/LICENSE-2.0).
